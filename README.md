@@ -1,5 +1,7 @@
 # Juego de Adivinanza de Palabras
 
+![Imagen que muestra la captura del proyecto en mención](captura-proyecto.jpg)
+
 Este es un juego sencillo de adivinanza de palabras. El usuario recibe una palabra oculta y debe adivinarla basándose en pistas progresivas.
 
 ## Cómo Jugar
@@ -9,5 +11,4 @@ Este es un juego sencillo de adivinanza de palabras. El usuario recibe una palab
 3. Cada vez que el usuario adivina incorrectamente, se muestra una nueva pista.
 4. Si el usuario adivina la palabra, el juego muestra un mensaje de éxito.
 5. El juego puede reiniciarse en cualquier momento usando el botón "Reiniciar Juego".
-
 
